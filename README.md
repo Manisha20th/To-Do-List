@@ -1,6 +1,6 @@
 # MagicNotes
 
-Site is live at: 
+Site is live at: https://manisha20th.github.io/To-Do-List/
 
 ### Technologies Used
 1. HTML
